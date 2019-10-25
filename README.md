@@ -1,10 +1,10 @@
 # laravel_bbs
 
 ## 使用技術
-- MySQL
-- BootStrap
-- Laravel Framework 6.2.0
 - PHP 7.3.9
+- Laravel Framework 6.2.0
+- MySQL 5.7.26
+- BootStrap
 
 ## 主な機能
 - CRUD
