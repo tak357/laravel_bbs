@@ -28,12 +28,16 @@
 |POST|comments|投稿にコメントを追加する。|
 
 ## テーブル定義
-comments
-|フィールド名|物理名|データ型|
+### comments
+
+|物理名|論理名|データ型|
 |:-----------|:------------|:------------|
-|id|コンテンツID|int|
-|post_id||int|
-|title||varchar|
+|id|ID|int|
+|post_id|記事ID|int|
+|title|タイトル|varchar|
+|body|本文|text|
+|created_at|投稿日|timestamp|
+|updated_at|更新日|timestamp|
 
 ## 課題
 - 画像アップロード機能を追加する
