@@ -34,6 +34,15 @@
 |:-----------|:------------|:------------|
 |id|ID|int|
 |post_id|記事ID|int|
+|body|本文|text|
+|created_at|投稿日|timestamp|
+|updated_at|更新日|timestamp|
+
+### posts
+
+|物理名|論理名|データ型|
+|:-----------|:------------|:------------|
+|id|ID|int|
 |title|タイトル|varchar|
 |body|本文|text|
 |created_at|投稿日|timestamp|
