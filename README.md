@@ -22,6 +22,12 @@
 |GET,HEAD|posts/{post}/edit|投稿の編集ページを表示する。|
 |POST|comments|投稿にコメントを追加する。|
 
+## 課題
+- 画像アップロード機能を追加する
+- ログイン機能の実装
+
 参考：
-- https://blog.hiroyuki90.com/articles/laravel-bbs/
-- https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b
+- Laravelチュートリアル：https://blog.hiroyuki90.com/articles/laravel-bbs/
+- マークダウン記法：https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b
+- LaravelでRoute::resourceを使うときに気をつけること：https://qiita.com/sympe/items/9297f41d5f7a9d91aa11
+- ローカルのプロジェクトをGitHubへアップロードする方法：https://qiita.com/devzip8/items/28ac253ea295ad6c2b73
