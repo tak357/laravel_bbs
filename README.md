@@ -26,7 +26,7 @@
 - 画像アップロード機能を追加する
 - ログイン機能の実装
 
-参考：
+## 参考
 - Laravelチュートリアル：https://blog.hiroyuki90.com/articles/laravel-bbs/
 - マークダウン記法：https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b
 - LaravelでRoute::resourceを使うときに気をつけること：https://qiita.com/sympe/items/9297f41d5f7a9d91aa11
