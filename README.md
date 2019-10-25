@@ -1,5 +1,8 @@
 # laravel_bbs
 
+## システム概要
+掲示板システム
+
 ## 使用技術
 - PHP 7.3.9
 - Laravel Framework 6.2.0
